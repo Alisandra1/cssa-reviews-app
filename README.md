@@ -85,4 +85,4 @@ Visit `http://localhost:3000`.
 
 ## Making changes later
 
-If you want new fields, a different rating scale, CSV export, or anything else, the code is plain Next.js/React under `src/` — bring the folder back to Claude and describe what you'd like changed.
+If you want new fields, a different rating scale, CSV export, or anything else, the code is plain Next.js/React under `src/` — bring the folder back to Claude and describe what you'd like changed..
